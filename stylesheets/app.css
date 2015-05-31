@@ -1,0 +1,49 @@
+body {
+	background: #f8f7f5;
+
+}
+
+.row {
+	width: 1380px;
+}
+.logo {
+	font-family: 'Raleway', sans-serif; font-weight: 100; font-size: 4.5em; color: #1b231e;
+}
+
+
+.menu {
+	font-family: 'Josefin Sans', sans-serif; list-style: none; font-weight: 100; color: #333;
+}
+.menu li {font-size: 1.35em;} 
+
+a, a:hover, a:visited {color:#333;}
+
+.photo {
+	padding-top: 10px;/*box-shadow: 0 0 5px; border: 0;*/
+}
+.gallery-thumbs {
+	/*background: red;*/
+
+	padding: 25px;
+	 border: 0;
+}
+.gallery-text {font-family: 'Josefin Sans', sans-serif; list-style: none; font-weight: 300; color: #333;}
+.gallery-text a {
+	color: #333;
+	margin-right: .5em;
+}
+
+.link {
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+.nav {
+	margin-bottom: 200px; 
+}
+.text {
+	font-family: 'Josefin Sans', sans-serif; font-weight: 100; font-size: 2em; color: #1b231e; padding-top: 27px; float: left; margin: 0 5px 0 0;
+}
+.text-title {
+font-style: bolder;
+}
